@@ -1,0 +1,28 @@
+name: Marcy Rye
+favicon: null
+layout_spectrum: 0.916804529260844
+typography_spectrum: 0.6211034099105746
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5017155583482236
+  lightness: 0.9014554133173078
+  saturation: 0.21662577940151095
+  rhythmicContrast: 0.4347680569626391
+purpose: []
